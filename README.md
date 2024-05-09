@@ -1,4 +1,5 @@
 # IoT Firmware Deployment System
+# Firmware over the air
 
 ## Overview
 This project aims to streamline the process of firmware development and deployment for Internet of Things (IoT) devices. Leveraging MQTT protocol for efficient communication, our system simplifies the workflow from firmware creation to deployment onto embedded hardware.
