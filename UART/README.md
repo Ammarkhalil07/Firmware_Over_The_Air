@@ -82,6 +82,8 @@ The secondary UART is not normally present on the GPIO connector. By default, th
             3. Compile the raspberrypi kernel `bitbake linux-raspberrypi -c compile -f;bitbake linux-raspberrypi`.
 
             4. build your image `bitabke <your-image-name>` and burn it using `dd` command into your SD card.
+
+- According to our approach, that UART3 will be the main function to update the firmware of the connected device, we will modify the dts file itself
         
 - After powering on your raspberrypi4, you can find the uart3 device node under `/dev`:
 
