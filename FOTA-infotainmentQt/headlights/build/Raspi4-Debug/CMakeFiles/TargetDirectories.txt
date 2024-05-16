@@ -1,0 +1,9 @@
+/home/som3a133/Desktop/EmbeddedLinux/QtApp/headlights/build/Raspi4-Debug/CMakeFiles/headlights.dir
+/home/som3a133/Desktop/EmbeddedLinux/QtApp/headlights/build/Raspi4-Debug/CMakeFiles/edit_cache.dir
+/home/som3a133/Desktop/EmbeddedLinux/QtApp/headlights/build/Raspi4-Debug/CMakeFiles/rebuild_cache.dir
+/home/som3a133/Desktop/EmbeddedLinux/QtApp/headlights/build/Raspi4-Debug/CMakeFiles/list_install_components.dir
+/home/som3a133/Desktop/EmbeddedLinux/QtApp/headlights/build/Raspi4-Debug/CMakeFiles/install.dir
+/home/som3a133/Desktop/EmbeddedLinux/QtApp/headlights/build/Raspi4-Debug/CMakeFiles/install/local.dir
+/home/som3a133/Desktop/EmbeddedLinux/QtApp/headlights/build/Raspi4-Debug/CMakeFiles/install/strip.dir
+/home/som3a133/Desktop/EmbeddedLinux/QtApp/headlights/build/Raspi4-Debug/CMakeFiles/headlights_autogen_timestamp_deps.dir
+/home/som3a133/Desktop/EmbeddedLinux/QtApp/headlights/build/Raspi4-Debug/CMakeFiles/headlights_autogen.dir
