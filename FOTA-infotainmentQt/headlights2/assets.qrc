@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/back.png</file>
+        <file>assets/back2.png</file>
+        <file>assets/black.jpg</file>
+        <file>assets/black2.jpg</file>
+        <file>assets/close2.png</file>
+        <file>assets/close3.png</file>
+        <file>assets/down.png</file>
+        <file>assets/left.png</file>
+        <file>assets/light.png</file>
+        <file>assets/not0.png</file>
+        <file>assets/not1.png</file>
+        <file>assets/p1.png</file>
+        <file>assets/pressed-bg-down.png</file>
+        <file>assets/pressed-bg-up.png</file>
+        <file>assets/right.png</file>
+        <file>assets/switch.png</file>
+        <file>assets/tes.png</file>
+        <file>assets/tesla.png</file>
+        <file>assets/tesla2.png</file>
+        <file>assets/tesla3.png</file>
+        <file>assets/teslaCar.png</file>
+        <file>assets/twing.png</file>
+        <file>assets/wifi0.png</file>
+        <file>assets/wifi1.png</file>
+    </qresource>
+</RCC>
