@@ -19,7 +19,7 @@ SharedMemory::~SharedMemory()
 
 
 
-
+/*******************Can remove the destructor in writing  till the reader is called and it will call the remover***********************/
 
 
 
@@ -60,7 +60,8 @@ int WriteSection::write_mem()
         /**********CLOSING THE FILE******************/
         input.close();
 
-
+        /**********************Can fix freezing by check line 22*************/
+        /***************************Threading can be good too will be implement that soon*****************/
         /***********LOCK THE MUTEX*******************/
         {
             scoped_lock<named_mutex> lock(mutex);

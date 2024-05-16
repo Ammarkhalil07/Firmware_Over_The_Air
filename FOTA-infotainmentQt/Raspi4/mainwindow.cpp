@@ -152,7 +152,7 @@ void MainWindow::on_close_clicked()
 
 
 
-
+/******Will implement the download function to check if it finish download or no better ******/
 int MainWindow::check_download()
 {
     if(download_flag==1)
@@ -198,16 +198,25 @@ void MainWindow::on_Download_clicked(bool checked)
         //     logMessage("qtDebug.txt");
         // }
 
+
+
+
+        /******************Sending signal to client to notify him that am ready to download***********************/
         MyPipe pipe1("ps | awk '/[c]lient/ {print $1}'");
         int qt_pid = std::stoi(pipe1.print_output());
         kill(qt_pid, SIGUSR1);
 
+
+
+        /*****************We can add timer here to delay check for downloadflag as the server will send signal to me to download file**********************/
         if(download_flag==1)
         {
             QMessageBox::information(this, "Download Success", "Downloading Update");
 
             // QMessageBox::information(this, "Notification", "Downlaod finished ");
+            /********************************file downloaded from Mosquito server named firmareClient************************/
             std::unique_ptr<SharedMemory> writer= std::make_unique<WriteSection>("/tmp/firmwareClient");
+        
             // std::unique_ptr<SharedMemory> writer= std::make_unique<WriteSection>("/usr/local/bin/headlights2");
 
                 if(writer->write_mem() != 0) {
