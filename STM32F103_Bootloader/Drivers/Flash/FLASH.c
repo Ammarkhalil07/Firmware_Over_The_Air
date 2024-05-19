@@ -1,7 +1,7 @@
 /*******************************************************************
  *  FILE DESCRIPTION
 -----------------------
- *  Owner:  Khaled El-Sayed @t0ti20
+ *  Owner:  Ammar Khalil
  *  File:  FLASH.c
  *  Module:  MCAL/FLASH
  *  Description:  FLASH Program File For STM32F103C6

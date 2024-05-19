@@ -1,7 +1,7 @@
 /*******************************************************************
  *  FILE DESCRIPTION
 -----------------------
- *  Owner:  Khaled El-Sayed @t0ti20
+ *  Owner:  Ammar Khalil
  *  File:  Application.h
  *  Module:  Application
  *  Description:  Application Interface File
