@@ -5,7 +5,7 @@ Qt is a versatile C++ framework known for its rich GUI elements and cross-platfo
 
 1. Download the Poky build system (kirkstone branch)  
 ```bash
-$ git clone -b kirkstone git://git.yoctoproject.org/poky
+$ git clone -b kirkstone git://git.yoctoproject.org/poky 
 ``` 
 2. Download RPI BSP (kirkstone branch) 
 ```bash
