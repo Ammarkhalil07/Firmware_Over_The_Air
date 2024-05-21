@@ -163,4 +163,4 @@ $ ~/Qt/Tools/QtCreator/bin/qtcreator
 	<img  src="https://i.imgur.com/sZNYUnX.png">
 	</p>  
 
-
+ 
