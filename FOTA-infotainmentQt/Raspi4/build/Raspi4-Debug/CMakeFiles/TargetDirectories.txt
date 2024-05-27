@@ -1,9 +1,0 @@
-/home/som3a133/Desktop/EmbeddedLinux/QtApp/Raspi4/build/Raspi4-Debug/CMakeFiles/Raspi4.dir
-/home/som3a133/Desktop/EmbeddedLinux/QtApp/Raspi4/build/Raspi4-Debug/CMakeFiles/edit_cache.dir
-/home/som3a133/Desktop/EmbeddedLinux/QtApp/Raspi4/build/Raspi4-Debug/CMakeFiles/rebuild_cache.dir
-/home/som3a133/Desktop/EmbeddedLinux/QtApp/Raspi4/build/Raspi4-Debug/CMakeFiles/list_install_components.dir
-/home/som3a133/Desktop/EmbeddedLinux/QtApp/Raspi4/build/Raspi4-Debug/CMakeFiles/install.dir
-/home/som3a133/Desktop/EmbeddedLinux/QtApp/Raspi4/build/Raspi4-Debug/CMakeFiles/install/local.dir
-/home/som3a133/Desktop/EmbeddedLinux/QtApp/Raspi4/build/Raspi4-Debug/CMakeFiles/install/strip.dir
-/home/som3a133/Desktop/EmbeddedLinux/QtApp/Raspi4/build/Raspi4-Debug/CMakeFiles/Raspi4_autogen_timestamp_deps.dir
-/home/som3a133/Desktop/EmbeddedLinux/QtApp/Raspi4/build/Raspi4-Debug/CMakeFiles/Raspi4_autogen.dir
